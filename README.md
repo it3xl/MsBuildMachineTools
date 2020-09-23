@@ -4,7 +4,7 @@
 This project is under active development and not ready yet.
 
 **MsBuildTools** supports Visula Studio 2019, 2017.  
- _ For earlier Visual Studio versions use my CMD project - https://github.com/it3xl/MSBuild-DevEnv-Build-Server-Workarounds
+ _ For earlier Visual Studio versions use my CMD project - [MSBuild-DevEnv-Build-Server-Workarounds](https://github.com/it3xl/MSBuild-DevEnv-Build-Server-Workarounds)
 
 ## Purpose of this project
 
